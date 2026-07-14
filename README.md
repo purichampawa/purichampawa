@@ -1,125 +1,138 @@
-<div align="center">
+# Purich Ampawa
 
-# Hi, I'm Purich Ampawa 👋
+**Computer Engineering student at Thammasat School of Engineering**  
+Focused on AI engineering, intelligent systems, and practical software products.
 
-### Computer Engineering Student · AI Engineering Enthusiast
+[GitHub](https://github.com/purichampawa) · [Work Email](mailto:richampawa@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-purichampawa-181717?style=for-the-badge&logo=github)](https://github.com/purichampawa)
-[![Email](https://img.shields.io/badge/Work_Email-richampawa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richampawa@gmail.com)
+> I enjoy working across the full AI workflow — from data preparation and model development to evaluation, explainability, system integration, and end-to-end testing.
 
-</div>
+## Profile Snapshot
 
-## 👨‍💻 About Me
+| | |
+|---|---|
+| **Education** | Computer Engineering, Thammasat University · 2024–Present |
+| **Primary interests** | AI Engineering, Machine Learning, Computer Vision, LLM Agents |
+| **Also experienced in** | Full-stack development, QA, data pipelines, product development |
+| **Current direction** | Building AI systems that are useful outside notebooks |
 
-Computer Engineering student at **Thammasat School of Engineering, Thammasat University**, since 2024.
+## What I Work With
 
-I am interested in **AI Engineering** and enjoy turning models and algorithms into practical systems. My experience includes classical machine learning, computer vision, LLM-powered agents, data pipelines, model evaluation, explainability, and full-stack product development.
+**AI & Data**  
+`Python` `XGBoost` `PyTorch` `TensorFlow` `YOLOv8` `OpenCV` `FinBERT` `SHAP` `ReAct Agents`
 
----
+**Application Development**  
+`JavaScript` `TypeScript` `React` `Next.js` `Vite` `Tailwind CSS` `Node.js` `NestJS` `Flask` `FastAPI`
 
-## 🧰 Tech Stack
+**Data & Infrastructure**  
+`PostgreSQL` `Supabase` `Prisma` `Docker` `Git` `GitHub`
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" alt="Python, Java, JavaScript, TypeScript, HTML and CSS" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="PyTorch, TensorFlow and scikit-learn" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=111111" alt="YOLOv8" />
-  <img src="https://img.shields.io/badge/Transformers-FinBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=111111" alt="Transformers and FinBERT" />
-  <img src="https://img.shields.io/badge/Explainable_AI-SHAP-6F42C1?style=flat-square" alt="SHAP" />
-  <img src="https://img.shields.io/badge/LLM_Agents-ReAct-0A66C2?style=flat-square" alt="ReAct LLM Agents" />
-</p>
-
-### Web, Backend & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,flask,fastapi,postgres,supabase,prisma" alt="Web, backend and database technologies" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma" alt="Docker, Git, GitHub, Visual Studio Code, Postman and Figma" />
-</p>
+**General Tools**  
+`VS Code` `Postman` `Figma` `HTML` `CSS` `Java`
 
 ---
 
-## 🚀 Selected Projects
+# Selected Work
 
-### 🤖 [Kibo Robot Programming Challenge 6th — Team SENSUAY](https://github.com/athiphat67/KiboTeamSENSUAY)
+## 01 — Kibo Robot Programming Challenge 6th
 
-![Role](https://img.shields.io/badge/ROLE-AI%2FML_%C2%B7_PATH_PLANNING_%C2%B7_NAVIGATION-0A66C2?style=flat-square)
-![Rank](https://img.shields.io/badge/RANK-6TH_PLACE_IN_THAILAND-2EA043?style=flat-square)
-![Award](https://img.shields.io/badge/AWARD-BEST_PRESENTATION-FFD700?style=flat-square&labelColor=555555)
+**Team SENSUAY** · Autonomous robotics and computer vision  
+[Repository →](https://github.com/athiphat67/KiboTeamSENSUAY)
 
-Autonomous robotics project for NASA's **Astrobee** robot on the International Space Station.
+| Result | My contribution |
+|---|---|
+| **6th place in Thailand** | AI/ML model development |
+| **Best Presentation Award** | Path planning and navigation |
+| NASA Astrobee mission | Dataset preparation and data engineering |
 
-- Developed the object-detection workflow using **YOLOv8n**, **OpenCV**, and **TensorFlow Lite**.
-- Contributed to **AI model development, dataset preparation, path planning, and navigation**.
-- Helped optimize the robot's route and reporting position for the competition mission.
+Built an autonomous robotics workflow for NASA's **Astrobee** robot on the International Space Station.
 
----
+**Highlights**
 
-### 📈 [Nak Khut Thong — Gold Trading AI Signal Generator](https://github.com/athiphat67/CN240_DATA-SCIENCE-FOR-SIGNAL-PROCESSING_PROJECT)
-
-![Course](https://img.shields.io/badge/COURSE-CN240_DATA_SCIENCE-6F42C1?style=flat-square)
-![Focus](https://img.shields.io/badge/FOCUS-ML_%C2%B7_LLM_%C2%B7_DATA_PIPELINE-0A66C2?style=flat-square)
-
-A decision-support system that generates Thai gold **BUY / SELL / HOLD** signals for Hua Seng Heng's **AOM NOW** platform using two independent architectures: **XGBoost LambdaMART** and a **ReAct LLM agent**.
-
-- Collected market and news data for the LLM pipeline and created **FinBERT sentiment scoring**.
-- Built LLM tools, **Risk Manager** post-processing, and backtesting for the ReAct architecture.
-- Contributed to ML model training, testing, architecture design, and algorithm development.
-- Added **SHAP-based model explanations** and performed end-to-end ML pipeline testing.
+- Developed an object-detection workflow using **YOLOv8n, OpenCV, and TensorFlow Lite**.
+- Prepared datasets and supported model experimentation.
+- Contributed to route planning, robot navigation, and reporting-position logic.
+- Helped connect vision output with the mission workflow.
 
 ---
 
-### 🌐 [AW Business Service Website](https://github.com/Rattatue/AW_biz_website) · [Live Website](https://www.awbizpattaya.com/)
+## 02 — Nak Khut Thong
 
-![Role](https://img.shields.io/badge/ROLE-FULL--STACK_%C2%B7_FRONTEND_%C2%B7_QA-0A66C2?style=flat-square)
-![Type](https://img.shields.io/badge/TYPE-REAL_CLIENT_PROJECT-2EA043?style=flat-square)
+**CN240 Data Science for Signal Processing** · Gold trading signal system  
+[Repository →](https://github.com/athiphat67/CN240_DATA-SCIENCE-FOR-SIGNAL-PROCESSING_PROJECT)
 
-A bilingual business website for a real client providing visa, work permit, legal-document, and business-support services for foreigners in Pattaya.
+A decision-support system that generates **BUY / SELL / HOLD** signals for Thai gold trading on Hua Seng Heng's **AOM NOW** platform.
 
-- Translated client requirements into a responsive, user-friendly static website.
-- Worked primarily on **frontend development**, integration, and **quality assurance**.
-- Delivered and refined the website based on real client feedback and expectations.
+The project explored two independent approaches:
+
+- **Machine-learning architecture** using XGBoost LambdaMART
+- **LLM architecture** using a ReAct-style agent loop
+
+<details>
+<summary><strong>My contributions</strong></summary>
+
+<br>
+
+- Collected and prepared market and news data for the LLM pipeline.
+- Created financial-news sentiment scoring with **FinBERT**.
+- Built tools used by the LLM inside the **ReAct loop**.
+- Developed Risk Manager post-processing for both ML and LLM architectures.
+- Built and evaluated the LLM backtesting workflow.
+- Contributed to ML training, testing, architecture design, and algorithm development.
+- Added model reasoning with **SHAP values**.
+- Performed end-to-end testing of the ML architecture before deployment.
+
+</details>
 
 ---
 
-### 🏢 Roomnify — Rental Property Management Platform
+## 03 — AW Business Service
 
-<!-- Add the product landing page here, for example:
-[View Roomnify](https://your-roomnify-landing-page.com/)
--->
+**Real client project** · Frontend development, full-stack support, and QA  
+[Repository →](https://github.com/Rattatue/AW_biz_website) · [Live website →](https://www.awbizpattaya.com/)
 
-![Type](https://img.shields.io/badge/TYPE-PRODUCT_DEVELOPMENT-2EA043?style=flat-square)
-![Focus](https://img.shields.io/badge/FOCUS-FULL--STACK_%C2%B7_PRODUCT_SYSTEM-0A66C2?style=flat-square)
+A bilingual business website for a Pattaya-based company providing:
 
-A full-stack product co-developed to simplify end-to-end rental property management for individual landlords, apartment owners, and property-management teams.
+`Visa Services` · `Work Permits` · `Business Services` · `Personal Services` · `Legal Support`
 
-- Supports rooms, tenants, leases, invoices, payments, complaints, maintenance, reports, notifications, and role-based access.
-- Designed to remain flexible for both small rental businesses and multi-property operations.
-- Built with a production-oriented stack including **React, NestJS, Prisma, PostgreSQL, and Docker**.
+**What I did**
+
+- Converted real client requirements into a responsive static website.
+- Worked mainly on frontend implementation and quality assurance.
+- Supported integration and refinement across the website.
+- Iterated based on client feedback and expected business outcomes.
 
 ---
 
-## 📫 Contact
+## 04 — Roomnify
 
-- **Email:** [richampawa@gmail.com](mailto:richampawa@gmail.com)
-- **GitHub:** [github.com/purichampawa](https://github.com/purichampawa)
+**Rental property management product** · Co-developed with a small team
 
-<div align="center">
+<!-- Replace the line below when the product landing page is available. -->
+<!-- [Product website →](https://your-roomnify-landing-page.com/) -->
 
-### Building practical AI systems and useful software products.
+Roomnify is a flexible property-management platform designed for individual landlords, apartment owners, dormitory operators, and property-management teams.
 
-</div>
+**Core system coverage**
+
+`Properties` · `Rooms` · `Tenants` · `Leases` · `Invoices` · `Payments`  
+`Complaints` · `Maintenance` · `Reports` · `Notifications` · `Role-based Access`
+
+**Product goal**
+
+Reduce the complexity of rental operations by keeping the complete workflow—from tenant management to billing and maintenance—inside one system.
+
+**Main stack**
+
+`React` · `NestJS` · `Prisma` · `PostgreSQL` · `Docker`
+
+---
+
+## Contact
+
+**Work inquiries:** [richampawa@gmail.com](mailto:richampawa@gmail.com)  
+**GitHub:** [github.com/purichampawa](https://github.com/purichampawa)
+
+---
+
+*Interested in building practical AI systems, reliable software, and products that solve real operational problems.*
