@@ -21,29 +21,6 @@ I am a **Computer Engineering student at Thammasat School of Engineering, Thamma
 
 My main interest is **AI Engineering**—from collecting and preparing data to training models, evaluating results, explaining predictions, integrating AI into applications, and testing complete systems before real use.
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🤖 AI Systems
-Machine learning, computer vision, LLM agents, model evaluation, and explainability
-
-</td>
-<td width="33%" align="center">
-
-### 🧩 Product Engineering
-Full-stack development, system integration, QA, and production-oriented workflows
-
-</td>
-<td width="33%" align="center">
-
-### 🎯 Current Direction
-Building useful AI features that solve real operational problems
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🎨 Technology Palette
