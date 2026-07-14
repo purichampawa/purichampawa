@@ -19,11 +19,25 @@ I am interested in **AI Engineering** and enjoy building practical systems acros
 
 ## 🛠️ Tech Stack
 
+### 💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,vite,tailwind,nodejs,nestjs,flask,fastapi,postgres,supabase,prisma,docker,git,github,vscode,postman,figma" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" />
 </p>
 
-**AI / ML:** `PyTorch` `TensorFlow` `OpenCV` `scikit-learn` `XGBoost` `YOLOv8` `FinBERT` `SHAP` `ReAct Agents`
+### 🧠 AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+</p>
+
+`XGBoost` `YOLOv8` `FinBERT` `SHAP` `ReAct Agents`
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+</p>
 
 ---
 
