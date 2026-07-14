@@ -22,13 +22,13 @@ I am interested in **AI Engineering** and enjoy building practical systems acros
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css" alt="Programming languages" />
 </p>
 
 ### 🧠 AI & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="AI and machine learning tools" />
 </p>
 
 `XGBoost` `YOLOv8` `FinBERT` `SHAP` `ReAct Agents`
@@ -36,7 +36,25 @@ I am interested in **AI Engineering** and enjoy building practical systems acros
 ### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" alt="Frontend technologies" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,flask,fastapi" alt="Backend technologies" />
+</p>
+
+### 🗄️ Database & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma" alt="Database and ORM technologies" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma" alt="Development tools and platforms" />
 </p>
 
 ---
