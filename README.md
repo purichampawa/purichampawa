@@ -48,13 +48,13 @@ I am interested in **AI Engineering** and enjoy building practical systems acros
 ### 🗄️ Database & ORM
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma" alt="Database and ORM technologies" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma" alt="Database" />
 </p>
 
 ### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma" alt="Development tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" alt="Development tools and platforms" />
 </p>
 
 ---
