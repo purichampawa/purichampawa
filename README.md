@@ -1,278 +1,100 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0EA5E9,50:7C3AED,100:EC4899&text=Purich%20Ampawa&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Computer%20Engineering%20%7C%20AI%20Engineering%20%7C%20Product%20Development&descAlignY=58&animation=fadeIn" alt="Purich Ampawa banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:2563EB,100:7C3AED&text=Purich%20Ampawa&fontColor=ffffff&fontSize=38&fontAlignY=42&desc=Computer%20Engineering%20Student%20%7C%20AI%20Engineering%20Enthusiast&descAlignY=70&descSize=16" alt="Purich Ampawa banner" />
 
-<a href="https://github.com/purichampawa">
-  <img src="https://img.shields.io/badge/GitHub-purichampawa-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-<a href="mailto:richampawa@gmail.com">
-  <img src="https://img.shields.io/badge/Work_Email-richampawa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Work email" />
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=760&lines=Building+practical+AI+systems;Working+across+ML%2C+LLM%2C+Computer+Vision+and+Web+Products;Turning+models+and+ideas+into+usable+software" alt="Typing introduction" />
+[![GitHub](https://img.shields.io/badge/GitHub-purichampawa-181717?style=flat-square&logo=github)](https://github.com/purichampawa)
+[![Email](https://img.shields.io/badge/Email-richampawa%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:richampawa@gmail.com)
 
 </div>
 
-## 🧭 About
+## 👋 About Me
 
-I am a **Computer Engineering student at Thammasat School of Engineering, Thammasat University**, studying since 2024.
+Computer Engineering student at **Thammasat School of Engineering, Thammasat University**, since 2024.
 
-My main interest is **AI Engineering**—from collecting and preparing data to training models, evaluating results, explaining predictions, integrating AI into applications, and testing complete systems before real use.
+I am interested in **AI Engineering** and enjoy building practical systems across machine learning, computer vision, LLM agents, data pipelines, explainability, testing, and full-stack development.
 
----
-
-## 🎨 Technology Palette
-
-<table>
-<tr>
-<td width="25%"><strong>🧠 AI & ML</strong></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="AI and machine learning tools" />
-
-`XGBoost` `YOLOv8` `FinBERT` `SHAP` `ReAct Agents`
-
-</td>
-</tr>
-
-<tr>
-<td><strong>💻 Languages</strong></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" alt="Programming languages" />
-
-</td>
-</tr>
-
-<tr>
-<td><strong>🌐 Application</strong></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,nestjs,flask,fastapi" alt="Application development technologies" />
-
-</td>
-</tr>
-
-<tr>
-<td><strong>🗄️ Data & Tools</strong></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase,prisma,docker,git,github,vscode,postman,figma" alt="Data and development tools" />
-
-</td>
-</tr>
-</table>
-
-> Some technologies above represent tools I have used across academic, client, and product projects. I keep learning and refining the stack based on each project's needs.
+> Turning models, data, and ideas into software people can actually use.
 
 ---
 
-# 🗂️ Project Missions
-
-## 🚀 Mission 01 — Astrobee Autonomous Robotics
-
-### [Kibo Robot Programming Challenge 6th — Team SENSUAY](https://github.com/athiphat67/KiboTeamSENSUAY)
-
-<img src="https://img.shields.io/badge/6TH_PLACE-THAILAND-22C55E?style=for-the-badge" alt="6th place in Thailand" />
-<img src="https://img.shields.io/badge/BEST_PRESENTATION-AWARD-FACC15?style=for-the-badge&labelColor=6B7280" alt="Best Presentation Award" />
-<img src="https://img.shields.io/badge/DOMAIN-COMPUTER_VISION-0EA5E9?style=for-the-badge" alt="Computer vision" />
-
-**Mission:** Develop an autonomous workflow for NASA's **Astrobee** robot on the International Space Station.
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛠️ My Role
-
-- AI and machine-learning model development
-- Dataset preparation and data engineering
-- Path planning and navigation
-- Vision-to-mission workflow integration
-
-</td>
-<td width="50%">
-
-### 🔬 Core Technology
-
-- YOLOv8n
-- OpenCV
-- TensorFlow Lite
-- Autonomous route and reporting logic
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Mission 02 — AI Gold Trading Signals
-
-### [Nak Khut Thong · CN240 Data Science Project](https://github.com/athiphat67/CN240_DATA-SCIENCE-FOR-SIGNAL-PROCESSING_PROJECT)
-
-<img src="https://img.shields.io/badge/ARCHITECTURE-XGBOOST_LAMBDAMART-F97316?style=for-the-badge" alt="XGBoost LambdaMART architecture" />
-<img src="https://img.shields.io/badge/ARCHITECTURE-ReAct_LLM_AGENT-8B5CF6?style=for-the-badge" alt="ReAct LLM agent architecture" />
-<img src="https://img.shields.io/badge/OUTPUT-BUY_%7C_SELL_%7C_HOLD-06B6D4?style=for-the-badge" alt="Buy sell hold output" />
-
-A decision-support system for generating Thai gold trading signals on Hua Seng Heng's **AOM NOW** platform.
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 LLM Architecture
-
-- Market and news data collection
-- FinBERT sentiment scoring
-- Tools for the ReAct loop
-- Risk Manager post-processing
-- LLM backtesting workflow
-
-</td>
-<td width="50%">
-
-### 📈 ML Architecture
-
-- Model training and evaluation
-- Architecture and algorithm development
-- SHAP-based model explanations
-- Risk Manager integration
-- End-to-end system testing
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><strong>🔎 View the complete contribution list</strong></summary>
-
-<br>
-
-- Collected and prepared market and news data for the LLM pipeline.
-- Created financial-news sentiment scoring with FinBERT.
-- Built tools used by the LLM inside the ReAct loop.
-- Developed Risk Manager post-processing for both ML and LLM architectures.
-- Built and evaluated the LLM backtesting workflow.
-- Contributed to ML training, testing, architecture design, and algorithm development.
-- Added model reasoning with SHAP values.
-- Performed end-to-end testing before real system use.
-
-</details>
-
----
-
-## 🌍 Mission 03 — Real Client Website
-
-### [AW Business Service](https://github.com/Rattatue/AW_biz_website) · [Visit Live Website](https://www.awbizpattaya.com/)
-
-<img src="https://img.shields.io/badge/PROJECT-REAL_CLIENT-22C55E?style=for-the-badge" alt="Real client project" />
-<img src="https://img.shields.io/badge/ROLE-FRONTEND_%7C_FULL_STACK-0EA5E9?style=for-the-badge" alt="Frontend and full stack role" />
-<img src="https://img.shields.io/badge/QUALITY-QA_TESTING-EC4899?style=for-the-badge" alt="Quality assurance testing" />
-
-A bilingual business website for a Pattaya-based company serving foreign clients.
-
-<table>
-<tr>
-<td align="center">✈️<br><strong>Visa Services</strong></td>
-<td align="center">💼<br><strong>Work Permits</strong></td>
-<td align="center">🏢<br><strong>Business Services</strong></td>
-<td align="center">📄<br><strong>Personal Services</strong></td>
-<td align="center">⚖️<br><strong>Legal Support</strong></td>
-</tr>
-</table>
-
-**Contribution**
-
-- Converted real client requirements into a responsive static website.
-- Worked mainly on frontend implementation, integration, and QA.
-- Improved the website through feedback-driven iterations.
-- Delivered work based on real customer expectations and business needs.
-
----
-
-## 🏙️ Mission 04 — Rental Management Product
-
-### Roomnify
-
-<!-- Replace the line below when the product landing page is available. -->
-<!-- [🌐 Product Website](https://your-roomnify-landing-page.com/) -->
-
-<img src="https://img.shields.io/badge/TYPE-PRODUCT_DEVELOPMENT-8B5CF6?style=for-the-badge" alt="Product development" />
-<img src="https://img.shields.io/badge/SCOPE-END_TO_END_PROPERTY_MANAGEMENT-0EA5E9?style=for-the-badge" alt="End-to-end property management" />
-
-A rental property management product co-developed for individual landlords, apartment owners, dormitory operators, and property-management teams.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🏠 Operations
-- Properties
-- Rooms
-- Tenants
-- Leases
-
-</td>
-<td width="33%" valign="top">
-
-### 💳 Finance
-- Invoices
-- Payments
-- Reports
-- Document workflows
-
-</td>
-<td width="33%" valign="top">
-
-### 🛎️ Service
-- Complaints
-- Maintenance
-- Notifications
-- Role-based access
-
-</td>
-</tr>
-</table>
-
-**Main stack**
+## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nestjs,prisma,postgres,docker" alt="Roomnify technology stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,vite,tailwind,nodejs,nestjs,flask,fastapi,postgres,supabase,prisma,docker,git,github,vscode,postman,figma" alt="Technology stack" />
 </p>
 
-> **Product goal:** Reduce the complexity of rental operations by connecting tenant, billing, maintenance, reporting, and access-management workflows in one flexible system.
+**AI / ML:** `PyTorch` `TensorFlow` `OpenCV` `scikit-learn` `XGBoost` `YOLOv8` `FinBERT` `SHAP` `ReAct Agents`
 
 ---
 
-## 📬 Let's Connect
+## 🚀 Selected Projects
 
-<table>
-<tr>
-<td width="50%" align="center">
+### 🤖 [Kibo Robot Programming Challenge 6th — Team SENSUAY](https://github.com/athiphat67/KiboTeamSENSUAY)
 
-### 💼 Work & Collaboration
+![Result](https://img.shields.io/badge/6th_Place-Thailand-22C55E?style=flat-square)
+![Award](https://img.shields.io/badge/Best_Presentation-Award-FACC15?style=flat-square)
+![Role](https://img.shields.io/badge/Role-AI%2FML_%7C_Path_Planning_%7C_Navigation-2563EB?style=flat-square)
 
-For project opportunities, AI-related work, or software collaboration:
+Autonomous robotics project for NASA's **Astrobee** robot on the International Space Station.
 
-[![Email](https://img.shields.io/badge/Email-richampawa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richampawa@gmail.com)
+- Developed an object-detection workflow using **YOLOv8n, OpenCV, and TensorFlow Lite**.
+- Contributed to AI model development, dataset preparation, path planning, and navigation.
+- Helped integrate vision output with the robot's mission workflow.
 
-</td>
-<td width="50%" align="center">
+---
 
-### 🧑‍💻 Explore My Work
+### 📈 [Nak Khut Thong — Gold Trading AI Signal Generator](https://github.com/athiphat67/CN240_DATA-SCIENCE-FOR-SIGNAL-PROCESSING_PROJECT)
 
-Follow my repositories and development progress:
+![Course](https://img.shields.io/badge/Course-CN240-7C3AED?style=flat-square)
+![Architecture](https://img.shields.io/badge/Architecture-XGBoost_%2B_ReAct_LLM-F97316?style=flat-square)
 
-[![GitHub](https://img.shields.io/badge/GitHub-purichampawa-181717?style=for-the-badge&logo=github)](https://github.com/purichampawa)
+A decision-support system that generates Thai gold **BUY / SELL / HOLD** signals for Hua Seng Heng's **AOM NOW** platform.
 
-</td>
-</tr>
-</table>
+- Collected market and news data for the LLM pipeline.
+- Created **FinBERT sentiment scoring** and tools for the ReAct loop.
+- Developed Risk Manager post-processing and LLM backtesting.
+- Contributed to ML training, testing, architecture design, and algorithm development.
+- Added **SHAP-based explanations** and performed end-to-end ML testing.
+
+---
+
+### 🌐 [AW Business Service Website](https://github.com/Rattatue/AW_biz_website) · [Live Website](https://www.awbizpattaya.com/)
+
+![Type](https://img.shields.io/badge/Type-Real_Client_Project-22C55E?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Frontend_%7C_Full--stack_%7C_QA-0EA5E9?style=flat-square)
+
+A bilingual website for a real client providing visa, work permit, business, personal-document, and legal-support services for foreigners in Pattaya.
+
+- Converted client requirements into a responsive static website.
+- Worked mainly on frontend development, integration, and QA.
+- Improved the website through client feedback and real business requirements.
+
+---
+
+### 🏢 Roomnify — Rental Property Management Platform
+
+<!-- Add the product landing page here when available:
+[🌐 Product Website](https://your-roomnify-landing-page.com/)
+-->
+
+![Type](https://img.shields.io/badge/Type-Product_Development-7C3AED?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-React_%7C_NestJS_%7C_PostgreSQL-2563EB?style=flat-square)
+
+A full-stack product co-developed to simplify rental property management for individual landlords, apartment owners, dormitory operators, and property-management teams.
+
+- Covers rooms, tenants, leases, invoices, payments, complaints, maintenance, reports, notifications, and role-based access.
+- Designed for both small rental businesses and multi-property operations.
+- Built with **React, NestJS, Prisma, PostgreSQL, and Docker**.
+
+---
+
+## 📫 Contact
+
+- **Email:** [richampawa@gmail.com](mailto:richampawa@gmail.com)
+- **GitHub:** [github.com/purichampawa](https://github.com/purichampawa)
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:EC4899,50:7C3AED,100:0EA5E9" alt="Footer banner" />
+**Building practical AI systems and useful software products.**
 
 </div>
