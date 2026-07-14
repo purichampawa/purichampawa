@@ -28,7 +28,7 @@ I am interested in **AI Engineering** and enjoy turning models and algorithms in
 ### AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="PyTorch, TensorFlow, OpenCV and scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="PyTorch, TensorFlow and scikit-learn" />
 </p>
 
 <p>
@@ -42,7 +42,7 @@ I am interested in **AI Engineering** and enjoy turning models and algorithms in
 ### Web, Backend & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,nestjs,flask,fastapi,postgres,supabase,prisma" alt="Web, backend and database technologies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,flask,fastapi,postgres,supabase,prisma" alt="Web, backend and database technologies" />
 </p>
 
 ### Tools & Platforms
